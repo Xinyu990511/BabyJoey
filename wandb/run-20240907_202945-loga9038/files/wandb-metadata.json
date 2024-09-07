@@ -1,0 +1,36 @@
+{
+    "os": "macOS-14.4.1-arm64-arm-64bit",
+    "python": "3.10.6",
+    "heartbeatAt": "2024-09-07T10:29:46.246993",
+    "startedAt": "2024-09-07T10:29:45.344883",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/Xinyu990511/BabyJoey.git",
+        "commit": "53464bc3d1a2dd77b2799e290fcef59239797e6e"
+    },
+    "email": "u7574344@anu.edu.au",
+    "root": "/Users/xinyu/Documents/s4/project/BabyJoey",
+    "host": "xinyudeMacBook-Pro.local",
+    "username": "xinyu",
+    "executable": "/Users/xinyu/opt/anaconda3/bin/python",
+    "cpu_count": 12,
+    "cpu_count_logical": 12,
+    "disk": {
+        "/": {
+            "total": 926.3517189025879,
+            "used": 410.70380783081055
+        }
+    },
+    "gpuapple": {
+        "type": "Apple M2 Pro",
+        "vendor": "sppci_vendor_Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
